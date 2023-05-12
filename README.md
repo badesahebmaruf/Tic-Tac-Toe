@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-Game
+# Tic_Tac_game
+javascript,html
